@@ -2,7 +2,7 @@
 
 compactvdi.sh is a simple compact script for VirtualBox VDI harddisk files. It runs in a Linux host a environment.
 
-To successfully use the script all unused harddisk sectors must be zeroed.
+To successfully use the script, all unused harddisk sectors must be zeroed.
 
 First remove all unnessessary files.
 
