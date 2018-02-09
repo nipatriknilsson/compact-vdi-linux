@@ -15,6 +15,4 @@ Windows guest (Tested on Windows 10 Guest)
 ```
 sdelete.exe -z
 ```
-From the Sysinternals Suite (https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
-
-An example batch file for Windows is provided as "Cleanup.bat".
+From the Sysinternals Suite (https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite). An example batch file for Windows is provided as "Cleanup.bat".
